@@ -1,3 +1,5 @@
-Git测试and Never give up !!!
+﻿Git测试and Never give up !!!
 ----------
 一个Java程序猿来啦~
+==========
+JHipster-Demo
